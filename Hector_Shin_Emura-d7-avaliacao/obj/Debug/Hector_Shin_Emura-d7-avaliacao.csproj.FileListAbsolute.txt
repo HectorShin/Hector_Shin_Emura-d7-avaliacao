@@ -1,0 +1,16 @@
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao.csproj.AssemblyReference.cache
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao.csproj.SuggestedBindingRedirects.cache
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\MainWindow.g.cs
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\App.g.cs
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao_MarkupCompile.cache
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao_MarkupCompile.lref
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\bin\Debug\Hector_Shin_Emura-d7-avaliacao.exe.config
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\bin\Debug\Hector_Shin_Emura-d7-avaliacao.exe
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\bin\Debug\Hector_Shin_Emura-d7-avaliacao.pdb
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\MainWindow.baml
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao.g.resources
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura_d7_avaliacao.Properties.Resources.resources
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao.csproj.GenerateResource.cache
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao.csproj.CoreCompileInputs.cache
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao.exe
+F:\USP\cteds\Hector_Shin_Emura-d7-avaliacao\Hector_Shin_Emura-d7-avaliacao\obj\Debug\Hector_Shin_Emura-d7-avaliacao.pdb
